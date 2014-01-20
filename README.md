@@ -8,7 +8,7 @@ Here you can find:
 last MAKO (Nexus4) Bootloader z30d for Optimus G [its on my e975]
 Source: http://forum.xda-developers.com/showthread.php?t=2105983
 =================================================================
-last CWM Touch Recovery (6.0.4.5)
+last CWM Touch Recovery (6.0.4.5) for E975 (Int.)!!
 Source: http://www.clockworkmod.com/rommanager
 =================================================================
 Framaroot.apk for Root your device
